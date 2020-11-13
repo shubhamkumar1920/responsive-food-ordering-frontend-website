@@ -1,6 +1,6 @@
 ### Responsive Restaurant website using Html, Css and JavaScript.
 
-![Food website](https://github.com/shubhamkumar1920/responsive-food-ordering-frontend-website/images/master/restaurant-webpage.jpg?raw=true)
+<--![Food website](https://github.com/shubhamkumar1920/responsive-food-ordering-frontend-website/blob/master/restaurant-webpage.jpg?raw=true)--->
 
 
 #### Demo: https://shubhamkumar1920.github.io/responsive-food-ordering-frontend-website/
